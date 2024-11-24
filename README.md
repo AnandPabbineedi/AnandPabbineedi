@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnandPabbineedi
 - 👀 I’m interested in Web Development...
-- 🌱 I’m currently working as a Trainee Software Engineer at Voltuswave Technologies India Pvt. Ltd.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m a dev
+- 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me ..imagineanandpabbineedi@gmail.com.
 
 <!---
